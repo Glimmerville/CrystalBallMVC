@@ -1,0 +1,32 @@
+﻿body {
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+#reply {
+    text-align: center;
+    position: relative;
+    left:auto;
+    right: auto;
+    top: -300px;
+    font-family: 'Candal', sans-serif;
+}
+.beachball {
+    position: relative; 
+    left: 20%;
+    height: 60%;
+    width: 60%;
+}
+
